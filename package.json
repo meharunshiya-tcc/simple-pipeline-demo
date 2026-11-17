@@ -1,6 +1,6 @@
 
 {
-  "name": "github-actions-demo",
+  "name": "simple-pipeline-demo",
   "version": "1.0.0",
   "description": "My first GitHub Actions project",
   "scripts": {
