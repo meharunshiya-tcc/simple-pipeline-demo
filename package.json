@@ -1,0 +1,10 @@
+
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "My first GitHub Actions project",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build.js"
+  }
+}
